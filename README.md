@@ -23,10 +23,6 @@ A comprehensive weight tracking application built with Python and Tkinter. This 
 ![Weight Tracking](assets/weight_tracking.png)
 *Adding a new weight entry with workout conditions and notes*
 
-### Statistics View
-![Statistics](assets/statistics.png)
-*Visual representation of weight trends and progress*
-
 ## Prerequisites
 
 Before running MyWeightTracker, ensure you have the following installed on your macOS:
